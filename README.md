@@ -7,15 +7,26 @@ Here is the link to the original Collab folder with all the files that are gener
 
 To run the python script locally:
 
-1. Create venv
+1. Create virtual environment
+```bash
 python -m venv venv
+```
 
 2. Activate virtual environment
-For Windows: venv\Scripts\activate
-For Linux: source venv/bin/activate
+For Windows: ```bash
+venv\Scripts\activate
+```
+For Linux: 
+```bash
+source venv/bin/activate
+```
 
 3. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 4. Run the script
+```bash
 python processing.py
+```

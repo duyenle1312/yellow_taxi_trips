@@ -13,7 +13,8 @@ python -m venv venv
 ```
 
 2. Activate virtual environment
-For Windows: ```bash
+For Windows: 
+```bash
 venv\Scripts\activate
 ```
 For Linux: 
